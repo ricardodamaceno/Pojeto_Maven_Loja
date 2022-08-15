@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/ricardolinux/Alura/maven/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2718172883.index
+1068463539.index
+1762306442.index
+4285479743.index
+995764634.index
+750931193.index
+638557230.index

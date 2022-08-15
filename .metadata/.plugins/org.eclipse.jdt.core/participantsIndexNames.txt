@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+/home/ricardolinux/Alura/maven/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2718172883.index
+/controle-produtos/src/main/java
+/home/ricardolinux/Alura/maven/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1511334842.index
+/controle-produtos/src
+/home/ricardolinux/Alura/maven/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/989675586.index
+/controle-produtos/src/main/java
